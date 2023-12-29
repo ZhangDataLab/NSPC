@@ -26,7 +26,7 @@ The code has been successfully tested in the following environment.
 
 ## Usage
 
-The notebook contains multiple cells, each representing the plotting function for subplots B to G. Execute the cells to generate the plots. The final figure `combination.pdf` will be saved in the `fig` directory.
+The notebook contains multiple cells, each representing the plotting function for subplots B to H. Execute the cells to generate the plots. The final figure `combination.pdf` will be saved in the `fig` directory.
 
 Before running `draw_fig.ipynb`, make sure you have the required CSV files in the `data` directory and the `colors_19.json` file in the `fig` directory. 
 
