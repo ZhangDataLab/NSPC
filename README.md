@@ -1,6 +1,6 @@
 # NSPC (Number of Strokes Per Character)
 
-This is the source code for brief report 'Complexity of Chinese given names: a simple
+This is the source code for paper 'Complexity of Chinese given names: a simple
 indicator of achievements across fields from ancient to modern China'.
 
 # Abstract 
@@ -9,7 +9,7 @@ cultural resources, NSPC is an important measurement and source of class-based a
 
 # Repository Description
 
-This repository contains code for generating Figure 1 in the brief report. Figure 1 is a figure with multiple subplots, illustrating various aspects of the data analysis, using Jupyter Notebook.
+This repository contains code for generating Figure 1 in the paper. Figure 1 is a figure with multiple subplots, illustrating various aspects of the data analysis, using Jupyter Notebook.
 
 ## Prerequisites
 
